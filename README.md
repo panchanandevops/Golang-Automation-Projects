@@ -13,7 +13,7 @@ A weather application that retrieves weather information for a specified city us
 - Provides weather description and temperature in Celsius.
 - Easy to configure with an OpenWeatherMap API key.
 
-📂 [Detailed README](weather-app/README.md)
+📂 [Detailed README](https://github.com/panchanandevops/Golang-Automation-Projects/tree/main/weather-app#readme)
 
 ---
 
@@ -26,7 +26,7 @@ A folder backup automation tool that schedules daily backups of a specified sour
 - Configurable source and destination directories.
 - Handles nested folder structures efficiently.
 
-📂 [Detailed README](folder-backup-automation/README.md)
+📂 [Detailed README](https://github.com/panchanandevops/Golang-Automation-Projects/tree/main/folder-backup-automation#readme)
 
 ---
 
@@ -39,7 +39,7 @@ An API for converting currencies using the Free Currency API. It supports a pred
 - Fetches real-time conversion rates.
 - Easy-to-use REST API with clear endpoints.
 
-📂 [Detailed README](currency-converter/README.md)
+📂 [Detailed README](https://github.com/panchanandevops/Golang-Automation-Projects/tree/main/currency-converter#readme)
 
 ---
 
